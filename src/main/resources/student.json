@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ivanov",
+    "country": "Russia",
+    "city": "Moscow",
+    "age": null
+  },
+  {
+    "name": "Petrov",
+    "country": "Russia",
+    "city": "Pskov",
+    "age": 17
+  }
+]
